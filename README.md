@@ -2,7 +2,10 @@
 
 установка для ISH SHELL
 
-apk update 
+apk update
+
 apk upgrade
-apk add git 
+
+apk add git
+
 git clone https://github.com/maza01010/MAZA.V3
